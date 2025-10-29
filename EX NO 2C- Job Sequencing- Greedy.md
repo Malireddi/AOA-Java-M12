@@ -1,5 +1,5 @@
 
-# EX 1B Power of 2
+# EX 1C Job Sequencing using Greedy Approach
 ## DATE:
 ## AIM:
 To write a Java program to for given constraints.
@@ -8,7 +8,21 @@ Given an integer array nums and an integer k, return the number of pairs (i, j) 
 The value of |x| is defined as:
 
 x if x >= 0.
--x if x < 0.
+-x if x < 0.You're given N jobs, each with:
+
+A unique jobId
+
+A deadline (by which it must be completed)
+
+A profit (earned only if completed on or before the deadline)
+
+Each job:
+
+Takes exactly 1 unit of time
+
+Only one job can be done at a time
+
+Your goal is to maximize total profit while completing the maximum number of jobs possible within their deadlines.
 
 ## Algorithm
 1. 

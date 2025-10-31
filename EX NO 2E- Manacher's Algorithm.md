@@ -2,7 +2,10 @@
 # EX 2E Pattern Matching using KMP Algorithm.
 ## DATE:
 ## AIM:
-To write a Java program to to implement Pattern Matching using KMP Algorithm.
+To write a Java program for the following constraints.
+Longest Palindromic Substring
+Given a string s, return the longest palindromic substring in s.
+using Manacher's Algorithm
 
 ## Algorithm
 1. 
